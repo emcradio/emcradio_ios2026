@@ -3,7 +3,7 @@
   "home_tab": {
     "enabled": true
   },
-  "configUrl": "https://raw.githubusercontent.com/emcradio/emc_radio_2026/refs/heads/main/radio_config.json",
+  "configUrl": "https://raw.githubusercontent.com/emcradio/emcradio_ios2026/refs/heads/main/config.json",
   "streamUrl": "http://c22.radioboss.fm:8040/stream",
   "streams": [
     {
